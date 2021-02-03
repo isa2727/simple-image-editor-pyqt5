@@ -1,0 +1,1 @@
+# simple-image-editor-pyqt5
